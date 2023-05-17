@@ -12,5 +12,4 @@ try {
     console.error(err);
 }
 }
-
 run();
